@@ -1,0 +1,14 @@
+
+.productImg{
+    max-height: 150px;
+    object-fit: cover;
+  }
+.addBtn {
+  font-size: 16px;
+  color: #fff;
+  background: #0d6efd;
+  width: 120px;
+  border-radius: 5px ;
+  padding: 5px;
+  border: 0;
+}
